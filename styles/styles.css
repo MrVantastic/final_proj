@@ -31,7 +31,7 @@ nav a:hover {
   transition: 0.3s;
 }
 
-#container {
+.container {
   background-color: #07889B;
   display: block;
   font-size: 18px;
@@ -52,7 +52,7 @@ footer {
   width: 80%;
 }
 
-#title h1 {
+.title h1 {
   text-align: center;
 }
 

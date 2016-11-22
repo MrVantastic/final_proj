@@ -7,11 +7,11 @@
     <script src="js/script.js"></script>
   </head>
   <body>
-    <div id="title">
+    <div class="title">
       <h1>Ithaca Applefest</h1>
     </div>
     <?php include "includes/header.php";?>
-    <div id="container">
+    <div class="container">
         <img id =apple_pic src ="images/apple_fest1.jpg" alt="gallery of apple_fest" >
         <!--apple_fest1 taken from https://www.instagram.com/p/BLCHzKyjTd9/?tagged=applefest-->
         <!--apple_fest2 taken from https://c1.staticflickr.com/9/8073/8381840938_4f6e3a90b3_b.jpg-->

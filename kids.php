@@ -3,13 +3,17 @@
   <head>
     <meta charset="UTF-8">
     <title>Ithaca Apple Harvest Festival</title>
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
   </head>
   <body>
-      <div id="header">
+      <div class="title">
+        <h1>Ithaca Applefest</h1>
       </div>
-      <div class="container">
-        <h2>Entertainment and Kid-Friendly Attractions</h2>
-        <div>
+      <div id="header">
+        <?php include 'includes/header.php';?>
+      </div>
+        <div class="container">
+          <h2>Entertainment and Kid-Friendly Attractions</h2>
           <h3>Main Stage Schedule</h3>
           <h4>Bernie Milton Pavilion</h4>
           <p>
@@ -42,17 +46,19 @@
             4:45 PM  <a href="https://www.facebook.com/Hilby-The-Skinny-German-Juggle-Boy-223349541036681/">Hilby The Skinny German Juggle Boy</a> <br />
           <br />
             <b><u>Saturday <br /></u></b>
-            12:00PM  Zajal the Sugarplum Fairy
-            1:00PM  The Next Jenneration
-            3:00PM  The Strong Woman Show
-            4:30PM  IC Circus
+            12:00PM  Zajal the Sugarplum Fairy <br />
+            1:00PM  The Next Jenneration <br />
+            3:00PM  The Strong Woman Show <br />
+            4:30PM  IC Circus <br />
           <br />
           <br />
             <b><u>Sunday <br /> </u></b>
-            12:30PM <a href="https://www.facebook.com/matanpresbergjuggler/">Matan Presberg - Juggler</a>
-            3:00PM <a href="https://www.facebook.com/hulahutpolynesiandance/">Hula Hut Polynesian Dance</a>
+            12:30PM <a href="https://www.facebook.com/matanpresbergjuggler/">Matan Presberg - Juggler</a> <br />
+            3:00PM <a href="https://www.facebook.com/hulahutpolynesiandance/">Hula Hut Polynesian Dance</a> <br />
           </p>
         </div>
-      </div>
+      <footer>
+        ITHACA APPLE FEST
+      </footer>
   </body>
 </html>
