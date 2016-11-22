@@ -12,10 +12,15 @@
       <div id="header">
         <?php include 'includes/header.php';?>
       </div>
+      <div id="page_title">
+      <h2><u>Entertainment and Kid-Friendly Attractions</u></h2>
+    </div>
         <div class="container">
-          <h2>Entertainment and Kid-Friendly Attractions</h2>
-          <h3>Main Stage Schedule</h3>
-          <h4>Bernie Milton Pavilion</h4>
+          <div id="stage_title">
+          <h3><u>Main Stage Schedule</u></h3>
+          </div>
+          <div id="col1">
+          <h3>Bernie Milton Pavilion</h3>
           <p>
             <b><u>Saturday <br /> </u></b>
              10-10:45AM Punk Hands <br />
@@ -39,7 +44,9 @@
              4:30-5:00PM Mirage Belly Dancers <br />
              5:15-6:15PM NEO Project <br />
           </p>
-          <h4>West State Street</h4>
+        </div>
+          <div id=col2>
+          <h3>West State Street</h3>
           <p>
             <b><u>Friday <br /></u></b>
             12:00 PM <a href="https://www.facebook.com/Hilby-The-Skinny-German-Juggle-Boy-223349541036681/">Hilby The Skinny German Juggle Boy</a> <br />
@@ -56,6 +63,7 @@
             12:30PM <a href="https://www.facebook.com/matanpresbergjuggler/">Matan Presberg - Juggler</a> <br />
             3:00PM <a href="https://www.facebook.com/hulahutpolynesiandance/">Hula Hut Polynesian Dance</a> <br />
           </p>
+        </div>
         </div>
       <footer>
         ITHACA APPLE FEST

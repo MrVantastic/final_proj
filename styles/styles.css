@@ -32,6 +32,7 @@ nav a:hover {
 }
 
 .container {
+  overflow:auto;
   background-color: #07889B;
   display: block;
   font-size: 18px;
@@ -87,4 +88,18 @@ img {
 
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
+}
+
+#stage_title, #page_title {
+  text-align:center;
+}
+
+#col1 {
+  float:left;
+  width:35%;
+}
+
+#col2 {
+  float:right;
+  width:35%;
 }
