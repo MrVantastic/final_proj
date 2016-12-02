@@ -145,6 +145,11 @@ img {
     width: 68%;
 }
 
+#map {
+  clear: both;
+  text-align: center;
+}
+
 /**********************
  * Media queries *
  **********************/
@@ -159,11 +164,11 @@ img {
     #content {
         width: 85%;
     }
-    
+
     p {
         font-size: 1.25em;
     }
-    
+
     #nav_bar {
         font-size: 1.25em;
     }
@@ -174,15 +179,15 @@ img {
         max-width: 85%;
         min-width: 55%;
     }
-    
+
     img {
         display: none;
     }
-    
+
     p {
         font-size: 1.5em;
     }
-    
+
     #nav_bar {
         font-size: 1.5em;
     }

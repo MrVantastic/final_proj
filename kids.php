@@ -13,10 +13,10 @@
         <?php include 'includes/header.php';?>
       </div>
       <div id="page_title">
-      <h2><u>Entertainment and Kid-Friendly Attractions</u></h2>
     </div>
         <div class="container">
           <div id="stage_title">
+          <h2><u>Entertainment and Kid-Friendly Attractions</u></h2>
           <h3><u>Main Stage Schedule</u></h3>
           </div>
           <div id="col1">
@@ -63,6 +63,13 @@
             12:30PM <a href="https://www.facebook.com/matanpresbergjuggler/">Matan Presberg - Juggler</a> <br />
             3:00PM <a href="https://www.facebook.com/hulahutpolynesiandance/">Hula Hut Polynesian Dance</a> <br />
           </p>
+        </div>
+        <div id="map">
+          <br />
+          <br />
+          <h2>Festival Map</h2>
+          <!-- The image below can be found at the following URL: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
+          <img src="images/map.jpg" alt="Picture of the festival map">
         </div>
         </div>
       <footer>
